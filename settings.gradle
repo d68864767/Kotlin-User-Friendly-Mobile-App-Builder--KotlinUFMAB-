@@ -1,0 +1,2 @@
+rootProject.name = 'KotlinUFMAB'
+include ':app'
